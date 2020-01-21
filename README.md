@@ -1,0 +1,1 @@
+# Sensor-de-corriente-ACS712ELC-05B-T
